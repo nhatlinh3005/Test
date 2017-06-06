@@ -1,0 +1,27 @@
+﻿parameter	tham số
+parenthesis	()
+commas		, 
+	ex:	function parameters are places in between the parethesis after the function identifier,
+with multiple parameters being separated by commas.
+supply		cung cấp
+rely		dựa
+assign		gán
+conclusion	kết luận
+capabilities	tính năng
+let's take a closer look at why they're useful
+extremely useful
+instantiates	khởi tạo ex:	program instantiates a variable
+expression	biểu thức
+appropriately	hợp lệ
+approach	tiếp cận
+asterisk	*
+conceptually	về mặt khái niệm
+initialize	khởi tạo
+dereference	khử tham chiếu( truy nhập thông tin tại địa chỉ con trỏ chứa)
+summary		tóm lược
+semicolon	;
+
+
+
+
+
